@@ -31,6 +31,7 @@ sudo bash install_docker.sh
 **Before starting the individual components, ensure that all environment variables in the .env file are set!**
 
 You can set the relevant environment variables by opening the file using:
+
 ```bash
 nano .env
 ```
